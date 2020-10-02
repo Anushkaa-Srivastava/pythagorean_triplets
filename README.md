@@ -18,3 +18,9 @@ Sample Input
 3
 Sample Output
 4 5
+
+Sample Input
+5
+Sample Output
+12 13
+
